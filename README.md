@@ -1,4 +1,4 @@
-# Publications
+# Research
 
 Research papers and reports by [Bilal Munawar](https://github.com/bm2515) from NYU and NYU Shanghai, covering NLP, computer vision, and big-data analytics.
 
